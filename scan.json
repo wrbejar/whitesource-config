@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "wrbejar/JavavulnerableGlobalConfiguration",
+      "branchName": "master",
+      "uploadScannerLogs": true
+    }
+  ]
+}
