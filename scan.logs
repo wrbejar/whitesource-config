@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "wrbejar/RubyTheOdinProject",
+      "branchName": "master",
+      "uploadScannerLogs": true
+    }
+  ]
+}
