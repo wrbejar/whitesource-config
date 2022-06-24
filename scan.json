@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "orgName1/repoName1",
+      "branchName": "master",
+      "uploadScannerLogs": true
+    }
+  ]
+}
