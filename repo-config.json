@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/wrbejar/whitesource-config/blob/main/whitesource.config",
     "baseBranches": []
   },
   "checkRunSettings": {
