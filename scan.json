@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "wrbejar/RailsGoatRepoName",
+      "branchName": "whitesource/configure",
+      "uploadScannerLogs": true
+    }
+  ]
+}
