@@ -1,8 +1,8 @@
 {
   "repositories": [
     {
-      "fullName": "orgName1/repoName1",
-      "branchName": "main",
+      "fullName": "wrbejar/RailsGoatRepoName",
+      "branchName": "whitesource/configure",
       "uploadScannerLogs": true
     }
   ]
