@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "wrbejar/WebGoat",
+      "branchName": "add_test_clientside_filtering",
+      "uploadScannerLogs": true
+    }
+  ]
+}
