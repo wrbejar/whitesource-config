@@ -6,8 +6,8 @@
 	"enableIaC": "true",
     "projectToken": "",
     "baseBranches": [],
-    "enableLicenseViolations": "true",
-    "enableSAST": "true"
+    "enableSAST": "true",
+    "enableLicenseViolations": "true"    
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
